@@ -1,4 +1,4 @@
-=== Facebook AWD Post To Feed Button ===
+=== Facebook AWD Post Notifications ===
 Contributors: AHWEBDEV 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZQ2VL33YXHJLC
 Tags: facebook, notifications, api, notifications api, send notifications
